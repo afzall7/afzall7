@@ -5,10 +5,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B14,50:EF93C4,100:FF69B4&height=240&section=header&text=MOHD_AFZAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=240&section=header&text=MOHD_AFZAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=240&section=header&text=MOHD_AFZAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Pink animated header">
-  </picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Mohd Afzal" src="art/header-light.png">
+</picture>
 
   <br>
 
